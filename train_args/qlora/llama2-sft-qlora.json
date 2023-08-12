@@ -1,6 +1,6 @@
 {
     "output_dir": "output/firefly-llama2-13b",
-    "model_name_or_path": "NousResearch/Llama-2-13b-hf",
+    "model_name_or_path": "/root/autodl-tmp/model_ckpt/models--OpenBuddy--openbuddy-llama2-13b-v8.1-fp16/snapshots/c1a5f8fd23e3823ced6efc0ea1df973da850ba7e",
     "train_file": "./data/dummy_data.jsonl",
     "num_train_epochs": 1,
     "per_device_train_batch_size": 8,
